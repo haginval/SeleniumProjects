@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-04T10:00:30 IST" name="Suite" finished-at="2020-05-04T10:01:23 IST" duration-ms="52549">
+    <groups>
+    </groups>
+    <test started-at="2020-05-04T10:00:30 IST" name="Test" finished-at="2020-05-04T10:01:23 IST" duration-ms="52549">
+      <class name="Test.LoginPageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:Test.LoginPageTest@38c5cc4c]" started-at="2020-05-04T10:00:30 IST" name="init" finished-at="2020-05-04T10:00:38 IST" duration-ms="8094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:Test.LoginPageTest@38c5cc4c]" started-at="2020-05-04T10:00:45 IST" name="login" finished-at="2020-05-04T10:00:57 IST" duration-ms="12195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown1()[pri:0, instance:Test.LoginPageTest@38c5cc4c]" started-at="2020-05-04T10:01:21 IST" name="teardown1" finished-at="2020-05-04T10:01:22 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown1 -->
+      </class> <!-- Test.LoginPageTest -->
+      <class name="Test.ProductPageTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:Test.ProductPageTest@37918c79]" started-at="2020-05-04T10:00:38 IST" name="init" finished-at="2020-05-04T10:00:45 IST" duration-ms="6675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:Test.ProductPageTest@37918c79]" started-at="2020-05-04T10:00:57 IST" name="login" finished-at="2020-05-04T10:01:21 IST" duration-ms="24204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Test.ProductPageTest@37918c79]" started-at="2020-05-04T10:01:22 IST" name="teardown" finished-at="2020-05-04T10:01:23 IST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

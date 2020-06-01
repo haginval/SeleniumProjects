@@ -1,0 +1,13 @@
+[INFO ] 2020-05-16 19:52:30.332 [main] LoginTest - Login page test cases starting
+[INFO ] 2020-05-16 19:52:36.581 [main] LoginTest - validating the page Title
+[INFO ] 2020-05-16 19:52:36.582 [main] LoginTest - PageTitle verification passed
+[INFO ] 2020-05-16 19:53:40.500 [main] LoginTest - Login page test cases starting
+[INFO ] 2020-05-16 19:53:47.893 [main] LoginTest - validating the page Title
+[ERROR] 2020-05-16 19:53:47.894 [main] LoginTest - Page title failed
+[INFO ] 2020-05-16 20:08:03.326 [main] LoginTest - Login page test cases starting
+[INFO ] 2020-05-16 20:08:10.591 [main] LoginTest - validating the page Title
+[ERROR] 2020-05-16 20:08:10.592 [main] LoginTest - Page title failed
+[INFO ] 2020-05-16 20:13:42.163 [main] LoginTest - Login page test cases starting
+[INFO ] 2020-05-16 20:13:50.083 [main] LoginTest - validating the page Title
+[ERROR] 2020-05-16 20:13:50.083 [main] LoginTest - Page title failed
+[INFO ] 2020-06-01 11:49:08.881 [main] LoginTest - Login page test cases starting

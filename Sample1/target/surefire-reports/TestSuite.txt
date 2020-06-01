@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 34.12 s <<< FAILURE! - in TestSuite
+SampleTestsuite.Homepage.BasePageNavigation  Time elapsed: 14.255 s  <<< FAILURE!
+java.lang.AssertionError: expected [Invalid email or password] but found [Invalid email or password.]
+	at SampleTestsuite.Homepage.BasePageNavigation(Homepage.java:40)
+
+SampleTestsuite.Homepage.BasePageNavigation  Time elapsed: 10.293 s  <<< FAILURE!
+java.lang.AssertionError: expected [Invalid email or password] but found [Invalid email or password.]
+	at SampleTestsuite.Homepage.BasePageNavigation(Homepage.java:40)
+

@@ -1,0 +1,9 @@
+[INFO ] 2020-05-09 17:01:09.663 [main] demoLog4j - logging info
+[FATAL] 2020-05-09 17:01:09.670 [main] demoLog4j - Fatal logs
+[ERROR] 2020-05-09 17:01:09.671 [main] demoLog4j - error log
+[WARN ] 2020-05-09 17:01:09.672 [main] demoLog4j -  warning message
+[INFO ] 2020-05-09 17:02:07.227 [main] demoLog4j - logging info
+[FATAL] 2020-05-09 17:02:07.234 [main] demoLog4j - Fatal logs
+[ERROR] 2020-05-09 17:02:07.234 [main] demoLog4j - error log
+[WARN ] 2020-05-09 17:02:07.234 [main] demoLog4j -  warning message
+[TRACE] 2020-05-09 17:02:07.235 [main] demoLog4j - trace level message
