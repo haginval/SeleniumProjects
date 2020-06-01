@@ -37,6 +37,7 @@ public class Base {
 	
 	public void loginStep()
 	{
+		System.out.println("InsideLogin Test case");
 		LoginPage lp = new LoginPage(driver);
 		lp.getUserName().sendKeys(username);
 		lp.getPassword().sendKeys(password);
